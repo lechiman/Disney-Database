@@ -1,0 +1,20 @@
+# Core data analysis libraries
+pandas==2.0.3
+numpy==1.24.3
+
+# Database connectivity
+mysql-connector-python==8.1.0
+SQLAlchemy==2.0.19
+
+# Data visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.15.0
+
+# Jupyter notebook support
+jupyter==1.0.0
+notebook==6.5.4
+
+# Additional utilities
+openpyxl==3.1.2
+python-dotenv==1.0.0
